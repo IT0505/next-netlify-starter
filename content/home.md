@@ -9,7 +9,7 @@ cats:
   - description: Grumpy cat is an American celebrity cat known for her grumpy appearance.
     name: Grumpy cat (Tardar Sauce)
 slogan: Discover Our Restaurant
-description1: Discover Our Restaurant1
+description1: Discover Our Restaurant123
 description2: Discover Our Restaurant2
 ---
 Welcome to my awesome page about cats of the internet.
